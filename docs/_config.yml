@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+author: Bruno P. Cabete
 title: Bruno Cabete | Web Developer
 email: bpcabete@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: brunocabete.github.io # the subpath of your site, e.g. /blog
 url: https://brunocabete.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username: brunocabete
-
+linkedin_username: bruno-cabete
 # Build settings
 theme: minima
 plugins:
