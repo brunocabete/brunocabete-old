@@ -45,14 +45,14 @@ That's why I'm writing this list of the top languages I'm curious about in no pa
 - Jekyll is cool (my current obsession)
 - Rails for webdev
 
-## Other technologies
-
 ## GO
 
 - Looks super cool
 - Cute mascot (arguably)
 - Low level programming with nice sintaxe (?)
 - Also used in webdev
+
+## Other technologies
 
 ### Bash
 
