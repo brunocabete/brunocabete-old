@@ -47,6 +47,13 @@ That's why I'm writing this list of the top languages I'm curious about in no pa
 
 ## Other technologies
 
+## GO
+
+- Looks super cool
+- Cute mascot (arguably)
+- Low level programming with nice sintaxe (?)
+- Also used in webdev
+
 ### Bash
 
 - Linux automation
@@ -56,3 +63,17 @@ That's why I'm writing this list of the top languages I'm curious about in no pa
 
 - Looks more modern than bash
 - Even cooler day to day applications
+
+## The ones I already know
+
+Now for the ones I already know (and want to keep learning), just for completion
+
+### JavaScript
+- Love it even with all the quirks
+- Used everywhere
+- Could learn Electron for desktop apps
+
+### PHP
+- Juriassic but cool
+- New features look nice
+- The web is built on it
