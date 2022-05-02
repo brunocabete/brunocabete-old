@@ -27,7 +27,7 @@ url: https://brunocabete.github.io # the base hostname & protocol for your site,
 github_username: brunocabete
 linkedin_username: bruno-cabete
 # Build settings
-theme: midnight
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
